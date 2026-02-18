@@ -1,6 +1,6 @@
 # 🛡️ Observatório Nacional de Segurança Pública - Brasil
 
-![Nome Alternativo](nome-da-imagem.png)
+
 <img width="1364" height="744" alt="Captura de tela 2026-02-18 152118" src="https://github.com/user-attachments/assets/92573d47-c8bc-4afa-a7fe-b7e1d5eb58b5" />
 
 ## 📊 Sobre o Projeto
@@ -21,5 +21,5 @@ Os dados são provenientes do **Sinesp (Sistema Nacional de Informações de Seg
 4. **Matriz de Sazonalidade:** Cruzamento de Estados vs. Meses com formatação condicional (gradiente) para deteção rápida de anomalias.
 
 ## 🚀 Como visualizar
-1. Descarregue o ficheiro `.pbix` na pasta `/dashboard`.
-2. O ficheiro de dados consolidado está disponível na pasta `/data`.
+1. BAsta Clicar no link abaixo
+https://app.powerbi.com/groups/me/reports/450b7a3f-363e-4166-abbf-1c9a5d4ca24e/30a28583292308f40b1d?experience=power-bi
